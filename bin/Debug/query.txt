@@ -1,0 +1,7 @@
+SELECT Version FROM Win32_Product WHERE Name Like 'Java%'
+SELECT Name FROM Win32_Process
+SELECT Serial Number FROM Win32_BaseBoard
+SELECT Name FROM Win32_Processor
+SELECT Name,Version FROM Win32_OperatingSystem
+SELECT Name,Version,SerialNumber FROM Win32_OperatingSystem
+SELECT Name FROM Win32_Logicaldisk
