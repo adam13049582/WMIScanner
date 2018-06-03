@@ -283,6 +283,7 @@ namespace WMIScanner
 			// 
 			// rich
 			// 
+			this.rich.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left|System.Windows.Forms.AnchorStyles.Right|System.Windows.Forms.AnchorStyles.Bottom) 
 			this.rich.Location = new System.Drawing.Point(940, 126);
 			this.rich.Name = "rich";
 			this.rich.Size = new System.Drawing.Size(317, 294);
